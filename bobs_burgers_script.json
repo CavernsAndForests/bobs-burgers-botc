@@ -9,174 +9,174 @@
     "name": "Zeke",
     "team": "townsfolk",
     "ability": "You start knowing 2 players that are not the Demon.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/zeke.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/zeke.svg"
   },
   {
     "id": "chef_bobs",
     "name": "Bob",
     "team": "townsfolk",
     "ability": "You start knowing how many pairs of evil players there are.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/bob.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/bob.svg"
   },
   {
     "id": "balloonist_bobs",
     "name": "Mike",
     "team": "townsfolk",
     "ability": "Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/mike.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/mike.svg"
   },
   {
     "id": "mathematician_bobs",
     "name": "Darryl",
     "team": "townsfolk",
     "ability": "Each night, you learn how many players' abilities worked abnormally (since dawn) due to another character's ability.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/darryl.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/darryl.svg"
   },
   {
     "id": "dreamer_bobs",
     "name": "Tina",
     "team": "townsfolk",
     "ability": "Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/tina.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/tina.svg"
   },
   {
     "id": "cultleader_bobs",
     "name": "Louise",
     "team": "townsfolk",
     "ability": "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/louise.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/louise.svg"
   },
   {
     "id": "undertaker_bobs",
     "name": "Mort",
     "team": "townsfolk",
     "ability": "Each night*, you learn which character died by execution today.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/mort.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/mort.svg"
   },
   {
     "id": "monk_bobs",
     "name": "Nat",
     "team": "townsfolk",
     "ability": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/nat.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/nat.svg"
   },
   {
     "id": "savant_bobs",
     "name": "Gene",
     "team": "townsfolk",
     "ability": "Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/gene.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/gene.svg"
   },
   {
     "id": "engineer_bobs",
     "name": "Teddy",
     "team": "townsfolk",
     "ability": "Once per game, at night, choose which Minions or which Demon is in play.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/teddy.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/teddy.svg"
   },
   {
     "id": "artist_bobs",
     "name": "Gayle",
     "team": "townsfolk",
     "ability": "Once per game, during the day, privately ask the Storyteller any yes/no question.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/gayle.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/gayle.svg"
   },
   {
     "id": "mayor_bobs",
     "name": "Linda",
     "team": "townsfolk",
     "ability": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/linda.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/linda.svg"
   },
   {
     "id": "magician_bobs",
     "name": "Rudy",
     "team": "townsfolk",
     "ability": "The Demon thinks you are a Minion. Minions think you are a Demon.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/rudy.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/rudy.svg"
   },
   {
     "id": "butler_bobs",
     "name": "Ron",
     "team": "outsider",
     "ability": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/ron.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/ron.svg"
   },
   {
     "id": "lunatic_bobs",
     "name": "Felix",
     "team": "outsider",
     "ability": "You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/felix.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/felix.svg"
   },
   {
     "id": "sweetheart_bobs",
     "name": "Jimmy",
     "team": "outsider",
     "ability": "When you die, 1 player is drunk from now on.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/jimmy.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/jimmy.svg"
   },
   {
     "id": "politician_bobs",
     "name": "Calvin",
     "team": "outsider",
     "ability": "If you were the player most responsible for your team losing, you change alignment & win, even if dead.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/calvin.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/calvin.svg"
   },
   {
     "id": "godfather_bobs",
     "name": "Bosco",
     "team": "minion",
     "ability": "You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/bosco.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/bosco.svg"
   },
   {
     "id": "fearmonger_bobs",
     "name": "Tammy",
     "team": "minion",
     "ability": "Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/tammy.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/tammy.svg"
   },
   {
     "id": "eviltwin_bobs",
     "name": "Millie",
     "team": "minion",
     "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/millie.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/millie.svg"
   },
   {
     "id": "scarletwoman_bobs",
     "name": "LaBonz",
     "team": "minion",
     "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/labonz.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/labonz.svg"
   },
   {
     "id": "nodashii_bobs",
     "name": "Pesto",
     "team": "demon",
     "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/pesto.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/pesto.svg"
   },
   {
     "id": "shabaloth_bobs",
     "name": "Hugo",
     "team": "demon",
     "ability": "Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/hugo.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/hugo.svg"
   },
   {
     "id": "zombuul_bobs",
     "name": "Edith",
     "team": "demon",
     "ability": "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/edith.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/edith.svg"
   },
   {
     "id": "lleech_bobs",
     "name": "Frond",
     "team": "demon",
     "ability": "Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead.",
-    "image": "https://raw.githubusercontent.com/RadianceBeltz/bobs-burgers-botc/main/script_svgs/frond.svg"
+    "image": "https://raw.githubusercontent.com/CavernsAndForests/bobs-burgers-botc/main/script_svgs/frond.svg"
   }
 ]
